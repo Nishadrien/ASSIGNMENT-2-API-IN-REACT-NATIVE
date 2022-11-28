@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "227516934223",
+    "project_id": "notificationapp-17284",
+    "storage_bucket": "notificationapp-17284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227516934223:android:a6b93c5ea1b514d95b623a",
+        "android_client_info": {
+          "package_name": "com.nishadrien.AwesomeProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227516934223-957t2ombp4o403o5v55liarqcte5ie5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nishadrien.AwesomeProject",
+            "certificate_hash": "3aa4812964410ad04b39ef764c29d46374c09468"
+          }
+        },
+        {
+          "client_id": "227516934223-h7k0u5vh8mvfe5gqfjjvhfnn59ad83so.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nishadrien.AwesomeProject",
+            "certificate_hash": "87f8b8c408ecf21ea2de178fb091e8d0e3ed5663"
+          }
+        },
+        {
+          "client_id": "227516934223-pscvoets2nqj5nd4qsjva1ug8dceikp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTym1xfXx4WKnOqezZB6a6ojCVZd7BqpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227516934223-pscvoets2nqj5nd4qsjva1ug8dceikp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
